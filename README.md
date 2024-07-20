@@ -2,7 +2,7 @@
 
 ## Show Me The Email!
 
-YouTube Video: https://youtu.be/
+YouTube Video: https://youtu.be/bRKSv7QDpXY
 
 Blazor Puzzle Home Page: https://blazorpuzzle.com
 
@@ -12,7 +12,7 @@ This is a .NET 8 Blazor Web App with Global Server Interactivity.
 
 The goal is to retrieve the logged-in user's email address in the NavMenu.
 
-To do this, we copied code from Components\Account\Pages\Manage\Index.razor
+To do this, we copied code from *Components\Account\Pages\Manage\Index.razor*
 
 After creating the initial auth database, and registering as a user, uncomment the code in NavMenu OnInitializedAsync()
 
